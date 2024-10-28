@@ -1,4 +1,4 @@
-# Employee Database SQL Challenges
+# Advanced SQL for Employee Data Management
 
 ## Project Overview
 This project showcases various SQL skills by tackling realistic data challenges involving an employee database. The project involves creating tables, modifying structures, performing data insertions, and executing advanced queries to answer specific business questions. Each task progressively builds on SQL fundamentals, covering topics like aggregations, joins, window functions, and ranking, as well as more advanced topics like ROLLUP and handling running totals.
